@@ -1,2 +1,3 @@
 pip install yfinance
 pip install matplotlib
+pip install python-json-logger
