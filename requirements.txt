@@ -7,3 +7,4 @@ matplotlib==3.8.2 # For generating stock graphs
 # Configuration and Logging
 python-dotenv==1.0.1  # Optional: for environment variable management
 configparser==6.0.0   # For reading settings.ini
+python-json-logger==2.0.7  # For JSON formatted logging
