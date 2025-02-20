@@ -1,0 +1,9 @@
+# Core Dependencies
+requests==2.31.0  # Likely needed for stock data retrieval
+pandas==2.2.0     # Common dependency for financial data processing
+yfinance==0.2.54  # Common library for stock market data
+matplotlib==3.8.2 # For generating stock graphs
+
+# Configuration and Logging
+python-dotenv==1.0.1  # Optional: for environment variable management
+configparser==6.0.0   # For reading settings.ini
