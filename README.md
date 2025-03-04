@@ -2,10 +2,11 @@
 
 A Python application that displays near real-time stock price
 
-![Version](https://img.shields.io/badge/version-0.0.1-green.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
 ## Change log
 - 0.0.1 Initial
+- 1.0.0 First working version
 
 ## License
 
