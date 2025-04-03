@@ -174,3 +174,6 @@ cython_debug/
 fonts/
 bmp/
 waveshare_epd/
+settings.ini
+main_local.py
+main_local_v2.py
