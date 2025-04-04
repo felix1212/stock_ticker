@@ -2,8 +2,6 @@ import requests
 
 def get_weather(openweather_api_key,location):
 
-    # API_KEY = "e9403b05ea1d9a5986dfcf9bf9a98d35"
-    # CITY = "Hong Kong"
     url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid={openweather_api_key}&units=metric"
 
     response = requests.get(url)
